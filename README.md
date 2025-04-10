@@ -1,3 +1,4 @@
 # AED
-Alumno: Spinelli Francisco /
+Alumno: Spinelli Francisco 
+
 Comisión: K1053
