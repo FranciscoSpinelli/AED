@@ -1,2 +1,3 @@
 # AED
-SPINELLI FRANCISCO / K1053
+Alumno: Spinelli Francisco 
+Comisión: K1053
